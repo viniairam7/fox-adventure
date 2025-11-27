@@ -1,9 +1,9 @@
-Fox Adventure
+# Fox Adventure Page
 
 A 2D adventure-style website/game experience themed around a fox character.
 Includes multiple pages, images, login interface, and styling components.
 
-🚀 Features
+# 🚀 Features
 
 Multi-page adventure experience
 
@@ -13,7 +13,7 @@ Custom login page
 
 Organized assets (img/, curriculo/)
 
-📂 Project Structure
+# 📂 Project Structure
 index.html          # Main page
 about-style.css     # Styles for about section
 about-script.js     # Script for about section
@@ -21,6 +21,6 @@ img/                # Image assets
 curriculo/          # Additional documentation/pages
 login/              # Login interface
 
-▶️ How to Run
+# ▶️ How to Run
 
-Open index.html in the browser.
+Access the link!
